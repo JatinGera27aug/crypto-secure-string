@@ -1,6 +1,3 @@
----
-
-```markdown
 # Crypto Secure String
 
 A simple and secure random string generator for your tokens, passwords, and keys. With just Two lines of code, you can generate random strings in various encoding formats (Base64, Hex, Alphanumeric) with customizable lengths.
