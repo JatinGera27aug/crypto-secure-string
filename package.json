@@ -1,0 +1,23 @@
+{
+  "name": "crypto-secure-string",
+  "version": "1.0.0",
+  "description": "generates random secure strings for keys, tokens, password",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "password-generator",
+    "crypto",
+    "string",
+    "random-string",
+    "tokens",
+    "tokens-generator"
+  ],
+  "author": "Jatin Gera",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
